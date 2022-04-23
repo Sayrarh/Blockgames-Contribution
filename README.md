@@ -20,7 +20,7 @@ We worked as a group, I didn't get to push to the repository... I contributed to
 ## Task 3 - Decentralized Voting Service (Team G)
 Repo URL - https://github.com/G-DAO/G-DAO
 
-I worked on the FrontEnd implementation
+I worked on the Frontend implementation
 
 ### Commits
 
