@@ -6,9 +6,14 @@ Repo URL - https://github.com/nkemjikaobi/nestcoin-dapp
 
 Smart Contract URL - https://github.com/leonardokhorliey/FilmHouseTokenContract
 
+We worked as a group, I didn't get to push to the repository... I contributed to the backend, my team lead is my witness and other members of my team.
 
 ## Task 2 - Decentralized File Storage (Team Nesters)
 Repo URL - https://github.com/nkemjikaobi/decentralised-file-storage
+
+Smart Contract URL -
+
+We worked as a group, I didn't get to push to the repository... I contributed to both the Frontend and Backend, my team lead is my witness.
 
 
 
