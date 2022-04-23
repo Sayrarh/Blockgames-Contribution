@@ -11,7 +11,7 @@ We worked as a group, I didn't get to push to the repository... I contributed to
 ## Task 2 - Decentralized File Storage (Team Nesters)
 Repo URL - https://github.com/nkemjikaobi/decentralised-file-storage
 
-Smart Contract URL -
+LIVE URL => https://dinata.vercel.app/
 
 We worked as a group, I didn't get to push to the repository... I contributed to both the Frontend and Backend, my team lead is my witness.
 
