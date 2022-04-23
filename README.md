@@ -4,6 +4,8 @@
 
 Repo URL - https://github.com/nkemjikaobi/nestcoin-dapp
 
+Live URL - https://nestcoin-dapp.vercel.app
+
 Smart Contract URL - https://github.com/leonardokhorliey/FilmHouseTokenContract
 
 We worked as a group, I didn't get to push to the repository... I contributed to the backend, my team lead is my witness and other members of my team.
