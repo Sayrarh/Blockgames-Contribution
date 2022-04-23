@@ -15,7 +15,7 @@ Repo URL - https://github.com/nkemjikaobi/decentralised-file-storage
 
 LIVE URL => https://dinata.vercel.app/
 
-We worked as a group, I didn't get to push to the repository... I contributed to both the Frontend and Backend, my team lead is my witness.
+I wrote the documentation for the project https://docs.google.com/document/d/1T8hKbWg1j9yn0ihK9RSp1trKcXrDb_n77sT2VEfwrIE/edit#
 
 
 
